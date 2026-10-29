@@ -1,0 +1,8 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/HichamShop.Application/HichamShop.Application.csproj" />
+    <Project Path="src/HichamShop.Domain/HichamShop.Domain.csproj" />
+    <Project Path="src/HichamShop.Infrastructure/HichamShop.Infrastructure.csproj" />
+    <Project Path="src/HichamShop.Web/HichamShop.Web.csproj" />
+  </Folder>
+</Solution>
